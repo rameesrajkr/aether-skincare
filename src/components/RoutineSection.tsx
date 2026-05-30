@@ -7,31 +7,31 @@ const STEPS = [
     step: "01",
     title: "Cleanse",
     copy: "Begin by removing impurities with our oil-to-milk Botanical Cleansing Gel.",
-    image: "images/p-1.png"
+    image: "https://drive.google.com/thumbnail?id=1yyj6VWLTmu4oQMCmVBcaVGg-2LjsMBHU&sz=w1200"
   },
   {
     step: "02",
     title: "Treat",
     copy: "Apply the Vitamin C Serum to damp skin for deep antioxidant protection.",
-    image: "images/p2.png"
+    image: "https://drive.google.com/thumbnail?id=1bYK5zCoGm-sI0XNeyNOs6g_HPJm4dkiA&sz=w1200"
   },
   {
     step: "03",
     title: "Hydrate",
     copy: "Seal in nutrients and repair the barrier with our luxurious Recovery Cream.",
-    image: "images/p3.png"
+    image: "https://drive.google.com/thumbnail?id=15Yg5kXyRKUaakXcek1pgVnHZOOT0j9N5&sz=w1200"
   },
   {
     step: "04",
     title: "Protect",
     copy: "Never skip environmental protection. Apply SPF as your final morning step.",
-    image: "images/p4.png"
+    image: "https://drive.google.com/thumbnail?id=1xrlelRyhjm7SDpaech2XB_08qd9hWR2k&sz=w1200"
   },
   {
     step: "05",
     title: "Regenerate",
     copy: "Optimize cellular renewal with our concentrated Molecular Night Serum.",
-    image: "images/serun.png"
+    image: "https://drive.google.com/thumbnail?id=1pnMTuM2HQcWh5DNrhNOYRq9OCIsTaLWo&sz=w1200"
   }
 ];
 
