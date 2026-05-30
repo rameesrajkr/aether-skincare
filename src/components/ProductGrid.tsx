@@ -7,7 +7,7 @@ const PRODUCTS = [
     name: "Barrier Repair Cream",
     price: "$48",
     tags: ["Hydrate", "Calm"],
-    image: "https://drive.google.com/thumbnail?id=1nNHCV_RzDeWVnrtNgBuTb-jMKUv05guv&sz=w1200",
+    image: "https://drive.google.com/thumbnail?id=15Yg5kXyRKUaakXcek1pgVnHZOOT0j9N5&sz=w1200",
     size: "large",
     delay: 0.1
   },
@@ -16,7 +16,7 @@ const PRODUCTS = [
     name: "Vitamin C Serum",
     price: "$62",
     tags: ["Brighten", "Protect"],
-    image: "../../images/p4.png",
+    image: "https://drive.google.com/thumbnail?id=15Yg5kXyRKUaakXcek1pgVnHZOOT0j9N5&sz=w1200",
     size: "small",
     delay: 0.3
   },
@@ -25,7 +25,7 @@ const PRODUCTS = [
     name: "Botanical Cleansing Gel",
     price: "$34",
     tags: ["Purify", "Gentle"],
-    image: "../../images/p-1.png",
+    image: "https://drive.google.com/thumbnail?id=1bYK5zCoGm-sI0XNeyNOs6g_HPJm4dkiA&sz=w1200",
     size: "medium",
     delay: 0.2
   },
@@ -34,7 +34,7 @@ const PRODUCTS = [
     name: "Overnight Mask",
     price: "$54",
     tags: ["Recover", "Glow"],
-    image: "../../images/p2.png",
+    image: "https://drive.google.com/thumbnail?id=1-_OqBelj69SC2r8cdfg9E1-M3WkAAshy&sz=w1200",
     size: "large",
     delay: 0.4
   }
