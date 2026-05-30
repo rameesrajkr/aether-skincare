@@ -114,7 +114,7 @@ export default function Philosophy() {
                   <div className="absolute inset-x-0 inset-y-0 bg-[rgba(255,245,235,0.45)] rounded-full blur-[80px] scale-110 pointer-events-none" />
                   
                   <img 
-                     src="images/tube1.png" 
+                     src="https://drive.google.com/thumbnail?id=1b6MS1G8IrweVIVDOCp_nrWEP_yUxvijA&sz=w1200" 
                      alt="Product Aesthetic" 
                      className="w-full h-full object-contain filter drop-shadow-[0_30px_60px_rgba(40,30,20,0.15)] transition-transform duration-700 hover:scale-[1.02]"
                      referrerPolicy="no-referrer"
