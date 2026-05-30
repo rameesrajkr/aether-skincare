@@ -7,7 +7,7 @@ const PRODUCTS = [
     name: "Barrier Repair Cream",
     price: "$48",
     tags: ["Hydrate", "Calm"],
-    image: "../../images/p3.png",
+    image: "https://drive.google.com/thumbnail?id=1nNHCV_RzDeWVnrtNgBuTb-jMKUv05guv&sz=w1200",
     size: "large",
     delay: 0.1
   },
