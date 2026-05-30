@@ -31,7 +31,7 @@ const STEPS = [
     step: "05",
     title: "Regenerate",
     copy: "Optimize cellular renewal with our concentrated Molecular Night Serum.",
-    image: "https://drive.google.com/thumbnail?id=1pnMTuM2HQcWh5DNrhNOYRq9OCIsTaLWo&sz=w1200"
+    image: "https://drive.google.com/thumbnail?id=1nNHCV_RzDeWVnrtNgBuTb-jMKUv05guv&sz=w1200"
   }
 ];
 
