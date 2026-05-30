@@ -7,7 +7,7 @@ const PRODUCTS = [
     name: "Barrier Repair Cream",
     price: "$48",
     tags: ["Hydrate", "Calm"],
-    image: "https://drive.google.com/thumbnail?id=15Yg5kXyRKUaakXcek1pgVnHZOOT0j9N5&sz=w1200",
+    image: "https://drive.google.com/thumbnail?id=1xrlelRyhjm7SDpaech2XB_08qd9hWR2k&sz=w1200",
     size: "large",
     delay: 0.1
   },
@@ -25,7 +25,7 @@ const PRODUCTS = [
     name: "Botanical Cleansing Gel",
     price: "$34",
     tags: ["Purify", "Gentle"],
-    image: "https://drive.google.com/thumbnail?id=1bYK5zCoGm-sI0XNeyNOs6g_HPJm4dkiA&sz=w1200",
+    image: "https://drive.google.com/thumbnail?id=11btYuV4v8e2BWkgK8uykNf500NLI8Y7E&sz=w1200",
     size: "medium",
     delay: 0.2
   },
