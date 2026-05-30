@@ -120,7 +120,7 @@ export default function Navbar() {
                     </div>
                   </div>
                   <div className="relative group overflow-hidden rounded-2xl aspect-[16/10]">
-                    <img src="images/p3.png" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000" alt="Night Routine" referrerPolicy="no-referrer" />
+                    <img src="https://drive.google.com/thumbnail?id=1xrlelRyhjm7SDpaech2XB_08qd9hWR2k&sz=w1200" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000" alt="Night Routine" referrerPolicy="no-referrer" />
                     <div className="absolute inset-0 bg-[#241F1A]/20 group-hover:bg-transparent transition-colors" />
                     <div className="absolute inset-0 flex items-center justify-center">
                       <span className="text-white text-2xl font-serif italic tracking-wider">Night Restoration</span>
