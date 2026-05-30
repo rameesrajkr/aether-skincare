@@ -48,7 +48,7 @@ export default function Navbar() {
                     initial={{ scale: 1.1 }}
                     animate={{ scale: 1 }}
                     transition={{ duration: 1.5, ease: luxuryEasing }}
-                    src="images/tube1.png" 
+                    src="https://drive.google.com/thumbnail?id=1b6MS1G8IrweVIVDOCp_nrWEP_yUxvijA&sz=w1200" 
                     alt="Ritual Collection" 
                     className="w-full h-[400px] object-cover brightness-90 group-hover:scale-105 transition-transform duration-1000"
                     referrerPolicy="no-referrer"
@@ -154,7 +154,7 @@ export default function Navbar() {
               <div className="w-full flex flex-col lg:flex-row gap-16">
                  <div className="lg:w-[400px] shrink-0">
                     <div className="aspect-square rounded-2xl overflow-hidden mb-8 relative group">
-                       <img src="images/p4.png" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000" alt="Journal" referrerPolicy="no-referrer" />
+                       <img src="https://drive.google.com/thumbnail?id=1xrlelRyhjm7SDpaech2XB_08qd9hWR2k&sz=w1200" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000" alt="Journal" referrerPolicy="no-referrer" />
                        <div className="absolute inset-0 bg-black/10" />
                     </div>
                     <h3 className="text-3xl font-serif italic text-[#241F1A] mb-4 leading-tight">Why minimalist skincare works for modern skin.</h3>
