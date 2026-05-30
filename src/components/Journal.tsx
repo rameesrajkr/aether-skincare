@@ -9,7 +9,7 @@ const POSTS = [
   {
     title: "Why minimalist skincare works",
     category: "Science",
-        image: "images/p6.png"
+        image: "https://drive.google.com/thumbnail?id=1YSLB6CsuPFtt-8WJU1eu7BeFa7T9uaqF&sz=w1200"
   },
   {
     title: "Understanding hydration vs moisture",
