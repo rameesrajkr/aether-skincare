@@ -79,7 +79,7 @@ export default function Navbar() {
                     <h4 className="text-[10px] uppercase tracking-[0.4em] font-bold text-[#8A947D] mb-8">Featured</h4>
                     <div className="relative aspect-square mb-6 overflow-hidden rounded-xl bg-white/50 group">
                       <img 
-                        src="images/p-1.png" 
+                        src="https://drive.google.com/thumbnail?id=1yyj6VWLTmu4oQMCmVBcaVGg-2LjsMBHU&sz=w1200" 
                         className="w-full h-full object-contain mix-blend-multiply group-hover:scale-110 transition-transform duration-700" 
                         alt="Product"
                         referrerPolicy="no-referrer"
@@ -113,7 +113,7 @@ export default function Navbar() {
                 </div>
                 <div className="lg:w-2/3 grid grid-cols-2 gap-12">
                   <div className="relative group overflow-hidden rounded-2xl aspect-[16/10]">
-                    <img src="images/p2.png" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000" alt="Routine" referrerPolicy="no-referrer" />
+                    <img src="https://drive.google.com/thumbnail?id=1bYK5zCoGm-sI0XNeyNOs6g_HPJm4dkiA&sz=w1200" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000" alt="Routine" referrerPolicy="no-referrer" />
                     <div className="absolute inset-0 bg-[#241F1A]/20 group-hover:bg-transparent transition-colors" />
                     <div className="absolute inset-0 flex items-center justify-center">
                       <span className="text-white text-2xl font-serif italic tracking-wider">Morning Rituals</span>
@@ -133,10 +133,10 @@ export default function Navbar() {
             {activeMenu === 'ingredients' && (
               <div className="w-full grid grid-cols-2 lg:grid-cols-4 gap-12">
                 {[
-                  { name: 'Ceramides', desc: 'Lock in deep moisture.', img: 'images/img1.png' },
-                  { name: 'Niacinamide', desc: 'Refine and balance.', img: 'images/img2.png' },
-                  { name: 'Centella', desc: 'Calm sensitive states.', img: 'images/img3.png' },
-                  { name: 'Peptides', desc: 'Firm and restructure.', img: 'images/p6.png' }
+                  { name: 'Ceramides', desc: 'Lock in deep moisture.', img: 'https://drive.google.com/thumbnail?id=1nNHCV_RzDeWVnrtNgBuTb-jMKUv05guv&sz=w1200' },
+                  { name: 'Niacinamide', desc: 'Refine and balance.', img: 'https://drive.google.com/thumbnail?id=14U3d--JjAK-Wlr1_t9DwZ5SFIuJSKQTz&sz=w1200' },
+                  { name: 'Centella', desc: 'Calm sensitive states.', img: 'https://drive.google.com/thumbnail?id=1Z_Nzj5HHRmm1CgftYwtNb_KWPZ_EnIEB&sz=w1200' },
+                  { name: 'Peptides', desc: 'Firm and restructure.', img: 'https://drive.google.com/thumbnail?id=1YSLB6CsuPFtt-8WJU1eu7BeFa7T9uaqF&sz=w1200' }
                 ].map((ing) => (
                   <div key={ing.name} className="group cursor-pointer">
                     <div className="aspect-[4/5] bg-white rounded-xl mb-6 overflow-hidden relative shadow-sm border border-[#241F1A]/5">
