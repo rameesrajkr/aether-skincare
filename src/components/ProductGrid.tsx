@@ -7,7 +7,7 @@ const PRODUCTS = [
     name: "Barrier Repair Cream",
     price: "$48",
     tags: ["Hydrate", "Calm"],
-    image: "images/p3.png",
+    image: "/images/p3.png",
     size: "large",
     delay: 0.1
   },
@@ -16,7 +16,7 @@ const PRODUCTS = [
     name: "Vitamin C Serum",
     price: "$62",
     tags: ["Brighten", "Protect"],
-    image: "images/p4.png",
+    image: "/images/p4.png",
     size: "small",
     delay: 0.3
   },
@@ -25,7 +25,7 @@ const PRODUCTS = [
     name: "Botanical Cleansing Gel",
     price: "$34",
     tags: ["Purify", "Gentle"],
-    image: "images/p-1.png",
+    image: "/images/p-1.png",
     size: "medium",
     delay: 0.2
   },
@@ -34,7 +34,7 @@ const PRODUCTS = [
     name: "Overnight Mask",
     price: "$54",
     tags: ["Recover", "Glow"],
-    image: "images/p2.png",
+    image: "/images/p2.png",
     size: "large",
     delay: 0.4
   }
